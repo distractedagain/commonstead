@@ -1,0 +1,12 @@
+.git
+.venv
+__pycache__
+**/__pycache__
+*.pyc
+data
+work
+*.sqlite*
+*.db*
+.env*
+dist
+build
